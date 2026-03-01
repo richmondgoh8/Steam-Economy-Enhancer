@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "@nuklon/steam-economy-enhancer",
+  "name": "@richmondgoh8/steam-economy-enhancer",
   "license": "MIT",
   "scripts": {
     "fix": "eslint --fix",
